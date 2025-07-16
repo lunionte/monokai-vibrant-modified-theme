@@ -19,7 +19,7 @@
             {
                 "label": "Monokai Vibrant Modified (Unified)",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Monokai Vibrant Modified (Unified).JSON"
+                "path": "./themes/Monokai Vibrant Modified (Unified).json"
             }
         ]
     }
