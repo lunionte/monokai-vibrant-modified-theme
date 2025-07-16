@@ -1,10 +1,8 @@
 # Monokai Vibrant Modified
 
-**Por [lunionte]**
+**Por [Italo Teles]**
 
 Um tema escuro modificado para Visual Studio Code, baseado no clássico Monokai Vibrant, oferecendo duas variantes distintas para uma experiência de codificação aprimorada.
-
----
 
 ## Variantes Disponíveis
 
@@ -14,23 +12,9 @@ Esta extensão inclui duas opções de tema para se adequar ao seu fluxo de trab
 
 Uma variação que mantém as cores vibrantes e amadas da sintaxe do Monokai Vibrant original, com ajustes sutis para clareza e contraste. Perfeito para quem ama a essência do Monokai Vibrant no código.
 
-**Prévia da Sintaxe Clássica:**
-
-![Screenshot da Variante Sintaxe Clássica - Código](https://via.placeholder.com/800x450?text=COLOCAR+AQUI+SCREENSHOT+DO+TEMA+SINTAXE+CL%C3%81SSICA)
-_Coloque aqui uma captura de tela do seu código com a variante "Sintaxe Clássica" aplicada._
-
----
-
 ### 2. Monokai Vibrant (UI Unificada)
 
 Esta variante leva o Monokai Vibrant um passo adiante, unificando as cores da interface do usuário (UI) e o fundo do editor para uma estética escura mais coesa e imersiva. As cores de fundo da UI são inspiradas no tema Monokai++ Unified, proporcionando uma transição visual suave em todo o seu ambiente de trabalho.
-
-**Prévia da UI Unificada:**
-
-![Screenshot da Variante UI Unificada - Código e UI](https://via.placeholder.com/800x450?text=COLOCAR+AQUI+SCREENSHOT+DO+TEMA+UI+UNIFICADA)
-_Coloque aqui uma captura de tela do seu código e da interface do VS Code (barra lateral, terminal, etc.) com a variante "UI Unificada" aplicada._
-
----
 
 ## Como Instalar
 
@@ -39,19 +23,15 @@ _Coloque aqui uma captura de tela do seu código e da interface do VS Code (barr
 3.  Procure por "**Monokai Vibrant Modified**".
 4.  Clique em **Instalar**.
 5.  Após a instalação, vá em `Arquivo > Preferências > Tema de Cores` (ou `Code > Preferências > Tema de Cores` no macOS) e selecione uma das variantes:
-    -   `Monokai Vibrant (Sintaxe Clássica)`
-    -   `Monokai Vibrant (UI Unificada)`
-
----
+    -   `Monokai Vibrant Modified (Classic Syntax)`
+    -   `Monokai Vibrant Modified (Unified)`
 
 ## Contribuição e Feedback
 
 Sua opinião é valiosa! Se você encontrar algum problema ou tiver sugestões para melhorias, sinta-se à vontade para:
 
--   Abrir uma [issue no GitHub](https://github.com/[SeuUsuario]/[seu-repo-tema]/issues) (se você usar GitHub).
+-   Abrir uma [issue no GitHub](https://github.com/lunionte/monokai-vibrant-modified-theme/issues) (se você usar GitHub).
 -   Deixar sua avaliação e comentários no Marketplace.
-
----
 
 ## Licença
 
