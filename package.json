@@ -1,0 +1,21 @@
+{
+  "name": "monokai-vibrant-modified",
+  "displayName": "Monokai Vibrant Modified",
+  "description": "A theme based on the Monokai Vibrant theme with a few changes",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.102.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monokai Vibrant Modified (Classic Syntax)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Monokai Vibrant Modified (Classic Syntax)-color-theme.json"
+      }
+    ]
+  }
+}
