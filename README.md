@@ -1,6 +1,6 @@
 # Monokai Vibrant Modified
 
-**Por [Seu Nome ou Nome do Publisher]**
+**Por [lunionte]**
 
 Um tema escuro modificado para Visual Studio Code, baseado no clássico Monokai Vibrant, oferecendo duas variantes distintas para uma experiência de codificação aprimorada.
 
