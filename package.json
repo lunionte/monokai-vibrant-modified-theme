@@ -20,6 +20,16 @@
                 "label": "Monokai Vibrant Modified (Unified)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Monokai Vibrant Modified (Unified).json"
+            },
+            {
+                "label": "Monokai Vibrant Modified (Dark +)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Monokai Vibrant Modified (Dark +).json"
+            },
+            {
+                "label": "Monokai Vibrant Modified (Dark Modern)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Monokai Vibrant Modified (Dark Modern).json"
             }
         ]
     }
