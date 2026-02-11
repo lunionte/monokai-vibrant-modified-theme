@@ -247,7 +247,7 @@
         "editor.background": "#1b1b1b",
         "editor.foreground": "#D7D7D7",
         "editor.lineHighlightBackground": "#2B2B2B",
-        "editor.selectionBackground": "#3F3F3F",
+        "editor.selectionBackground": "#2E4B6A",
         "editorCursor.foreground": "#D7D7D7",
         "editorIndentGuide.background": "#3B3B3B",
         "editorLineNumber.foreground": "#858585",
@@ -265,6 +265,6 @@
         "titleBar.inactiveForeground": "#D7D7D7",
         "editorSuggestWidget.background": "#252525",
         "editorSuggestWidget.border": "#3B3B3B",
-        "editorSuggestWidget.selectedBackground": "#3F3F3F"
+        "editorSuggestWidget.selectedBackground": "#2E4B6A"
     }
 }
