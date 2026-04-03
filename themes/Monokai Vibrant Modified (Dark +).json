@@ -296,7 +296,8 @@
         "titleBar.inactiveForeground": "#6B717D",
         "editorInlayHint.foreground": "#838594",
         "editorInlayHint.background": "#262831",
-        "activityBar.border": "#333333",
-        "sideBar.border": "#3F3F46"
+        "activityBar.border": "#2A2B2C",
+        "sideBar.border": "#2A2B2C",
+        "titleBar.border": "#2A2B2C"
     }
 }
