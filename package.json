@@ -1,8 +1,14 @@
 {
     "name": "monokai-vibrant-modified",
     "displayName": "Monokai Vibrant Modified",
+    "private": "true",
     "description": "A theme based on the Monokai Vibrant theme with a few changes",
     "version": "0.0.1",
+    "publisher": "italo",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/lunionte/monokai-vibrant-modified-theme"
+    },
     "engines": {
         "vscode": "^1.102.0"
     },
